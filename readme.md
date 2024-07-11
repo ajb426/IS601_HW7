@@ -1,4 +1,4 @@
-# Improved QR Docker 2024
+# QR Code Generator
 
 This repository contains a Docker setup to generate a QR code for a given URL.
 
